@@ -1,0 +1,16 @@
+{
+    "name": "urbikas/bankas3",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Urbikas\\Bankas3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "deividas939",
+            "email": "121436093+deividas939@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
